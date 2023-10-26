@@ -1,5 +1,5 @@
 ### Hi there 👋 here are my projects
-Combinatorics:
+Algorithms and data structures:
 * https://github.com/DvoraksPadawan/Graph-algorithms
 
 
