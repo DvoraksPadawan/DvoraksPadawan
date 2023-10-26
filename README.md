@@ -2,6 +2,7 @@
 Combinatorics:
 * https://github.com/DvoraksPadawan/Graph-algorithms
 
+
 Blockchain:
 * https://github.com/DvoraksPadawan/Algorithmic-Stablecoin
 * https://github.com/DvoraksPadawan/Pegged-Staking-Coin
@@ -11,11 +12,24 @@ Blockchain:
 * https://github.com/DvoraksPadawan/ERC20
 * https://github.com/DvoraksPadawan/my_first_blockchain_fork
 
+
 Machine learning:
 * https://github.com/DvoraksPadawan/knn
 * https://github.com/DvoraksPadawan/linear-regression
 * https://github.com/DvoraksPadawan/q-learning
 * https://github.com/DvoraksPadawan/multilayer-perceptron
+
+
+Data analysis:
+* https://github.com/DvoraksPadawan/sales-report
+
+
+Android:
+* https://github.com/DvoraksPadawan/MindHelper
+
+
+Algorithmic trading:
+* https://github.com/DvoraksPadawan/fear-and-greed-analyser
 <!--
 **DvoraksPadawan/DvoraksPadawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
