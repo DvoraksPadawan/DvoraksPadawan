@@ -2,9 +2,9 @@
 
 Blockchain:
 * https://github.com/DvoraksPadawan/Algorithmic-Stablecoin
-https://github.com/DvoraksPadawan/Pegged-Staking-Coin
-https://github.com/DvoraksPadawan/smart-contract-lottery
-https://github.com/DvoraksPadawan/nft-factory
+* https://github.com/DvoraksPadawan/Pegged-Staking-Coin
+* https://github.com/DvoraksPadawan/smart-contract-lottery
+* https://github.com/DvoraksPadawan/nft-factory
 
 <!--
 **DvoraksPadawan/DvoraksPadawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
