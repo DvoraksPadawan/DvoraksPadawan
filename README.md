@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Blockchain:
-https://github.com/DvoraksPadawan/Algorithmic-Stablecoin
+* https://github.com/DvoraksPadawan/Algorithmic-Stablecoin
 https://github.com/DvoraksPadawan/Pegged-Staking-Coin
 https://github.com/DvoraksPadawan/smart-contract-lottery
 https://github.com/DvoraksPadawan/nft-factory
