@@ -1,4 +1,4 @@
-### Hi there 👋 here are my projects
+### Hi there, here are my projects 👋
 Algorithms and data structures:
 * https://github.com/DvoraksPadawan/Graph-algorithms
 
