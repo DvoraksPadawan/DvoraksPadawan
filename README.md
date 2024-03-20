@@ -30,6 +30,7 @@ Android:
 
 Algorithmic trading:
 * https://github.com/DvoraksPadawan/fear-and-greed-analyser
+* https://github.com/DvoraksPadawan/VolumeBot
 <!--
 **DvoraksPadawan/DvoraksPadawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
