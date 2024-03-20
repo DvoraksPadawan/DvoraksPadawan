@@ -22,6 +22,7 @@ Machine learning:
 
 Data analysis:
 * https://github.com/DvoraksPadawan/sales-report
+* https://github.com/DvoraksPadawan/python-sql
 
 
 Android:
